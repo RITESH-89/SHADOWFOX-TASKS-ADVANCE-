@@ -120,4 +120,5 @@ Role: ShadowFox Internship Trainee – Advanced Task (Sports Analytics)
 
 Skills Used: Python, Data Analysis, Visualization, Sports Analytics
 
+LINKEDIN : "www.linkedin.com/in/ritesh-paithankar-4b43a828a"
 ---
