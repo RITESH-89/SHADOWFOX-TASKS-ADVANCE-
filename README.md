@@ -67,12 +67,14 @@ Where:
 ## 📊 Visualizations
 1. **Fielding Performance Score (All Players):** Horizontal bar chart showing PS of all players.  
 2. **Top 5 Performers:** Highlighting the top 5 players with the highest PS.  
-<img width="995" height="280" alt="Screenshot 2025-07-26 101812" src="https://github.com/user-attachments/assets/fa2a79df-f27c-4569-8fea-a4c94a9a83e9" />
-<img width="752" height="646" alt="Screenshot 2025-07-26 102044" src="https://github.com/user-attachments/assets/396d701c-a36b-426f-b5b8-8beb582a9579" />
-<img width="989" height="498" alt="Screenshot 2025-07-26 102034" src="https://github.com/user-attachments/assets/06d0f371-908d-40b1-9959-027020175a1b" />
-<img width="617" height="261" alt="Screenshot 2025-07-26 102027" src="https://github.com/user-attachments/assets/15ab2ce0-839d-4511-ac54-f75a05464d20" />
-<img width="896" height="174" alt="Screenshot 2025-07-26 101827" src="https://github.com/user-attachments/assets/e4d9795d-b26d-430b-a05a-29abed178312" />
-<img width="957" height="171" alt="Screenshot 2025-07-26 101820" src="https://github.com/user-attachments/assets/e7560b67-2082-45ae-a920-bf7ba1764b34" />
+<img width="627" height="387" alt="Screenshot 2025-07-26 105656" src="https://github.com/user-attachments/assets/d66b6c9e-2744-4381-8a13-cf0f97a77508" />
+<img width="786" height="465" alt="Screenshot 2025-07-26 105648" src="https://github.com/user-attachments/assets/ae32caae-ecb9-4c9e-99e4-d80a984a746c" />
+<img width="776" height="251" alt="Screenshot 2025-07-26 105638" src="https://github.com/user-attachments/assets/8db3ab65-2550-46b8-b441-36823e3c15e0" />
+<img width="437" height="65" alt="Screenshot 2025-07-26 105632" src="https://github.com/user-attachments/assets/6d7d7e14-b876-4be5-967e-accceca5a929" />
+<img width="808" height="166" alt="Screenshot 2025-07-26 105623" src="https://github.com/user-attachments/assets/2273725b-68e9-46de-8360-fae1333bde1f" />
+<img width="875" height="292" alt="Screenshot 2025-07-26 105614" src="https://github.com/user-attachments/assets/b4725caa-dfde-44d3-921f-fc2e3d16c63b" />
+<img width="871" height="259" alt="Screenshot 2025-07-26 105603" src="https://github.com/user-attachments/assets/6643a0e2-5a9e-4ee5-a3e4-8864bb1819b2" />
+
 
 ---
 
